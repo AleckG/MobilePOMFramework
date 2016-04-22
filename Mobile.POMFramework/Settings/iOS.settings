@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Mobile.POMFramework.Settings" GeneratedClassName="iOS">
+  <Profiles />
+  <Settings>
+    <Setting Name="deviceName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">iPhone 6</Value>
+    </Setting>
+    <Setting Name="platformVersion" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">8.2</Value>
+    </Setting>
+    <Setting Name="platformName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">iOS</Value>
+    </Setting>
+    <Setting Name="uri" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">&lt;Removed for obvious reasons&gt;</Value>
+    </Setting>
+    <Setting Name="timeOutSecs" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

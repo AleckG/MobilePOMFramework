@@ -1,0 +1,33 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Mobile.POMFramework.Settings" GeneratedClassName="App">
+  <Profiles />
+  <Settings>
+    <Setting Name="LoadPageTimeoutSeconds" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">60</Value>
+    </Setting>
+    <Setting Name="DefaultCulture" Type="System.String" Scope="User">
+      <Value Profile="(Default)">en-US</Value>
+    </Setting>
+    <Setting Name="MaxPageElementWaitTimeSeconds" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="ValidUserName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">&lt;Removed for obvious reasons&gt;</Value>
+    </Setting>
+    <Setting Name="ValidPassword" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">&lt;Removed for obvious reasons&gt;</Value>
+    </Setting>
+    <Setting Name="InvalidUserName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Chuck.Norris</Value>
+    </Setting>
+    <Setting Name="InvalidPassword" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">ninja</Value>
+    </Setting>
+    <Setting Name="instanceName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">test1</Value>
+    </Setting>
+    <Setting Name="environment" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Internal - TestServer1</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
